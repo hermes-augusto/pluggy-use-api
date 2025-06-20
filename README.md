@@ -4,7 +4,7 @@ Este notebook demonstra como conectar sua conta Mercado Pago à API da Pluggy pa
 
 ## Informações
 - Mais informações sobre [Pluggy](https://www.pluggy.ai/pt)
-- Doc API da [Pluggy] (https://docs.pluggy.ai/reference/auth)
+- [API Doc](https://docs.pluggy.ai/reference/auth)
 
 ## Pré-requisitos
 - Conta criada na [Pluggy](https://dashboard.pluggy.ai/)
